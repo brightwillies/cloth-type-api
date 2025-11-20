@@ -1,0 +1,23 @@
+{
+  "n_classes": 14,
+  "idx_to_name": [
+    "shirt, blouse",
+    "top, t-shirt, sweatshirt",
+    "sweater",
+    "cardigan",
+    "jacket",
+    "vest",
+    "pants",
+    "shorts",
+    "skirt",
+    "coat",
+    "dress",
+    "jumpsuit",
+    "cape",
+    "Not Clothing"
+  ],
+  "dropped": [
+    13,
+    14
+  ]
+}
